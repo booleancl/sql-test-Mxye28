@@ -13,3 +13,10 @@ C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/pizzas.csv
 C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/sizes.csv
 C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/orders_details.csv
 C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/orders.csv
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/migrations/08_seed_data.sql
+
+
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/queryes/01_more_expensive_pizza.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/queryes/02_max_quantity.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/queryes/03_max_income.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/queryes/04_most_sold_size.sql

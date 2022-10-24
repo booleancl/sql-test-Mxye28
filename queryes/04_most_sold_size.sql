@@ -1,5 +1,7 @@
 \c pizzas_factory
 
-SELECT pizza.size as pizza, SUM (price*quantity) AS total
-FROM sizes
-
+SELECT sizes.name as size, sum(quantity) as total_quantity
+FROM details
+JOIN sizes ON sizes.id = details.size_id
+GROUP BY size
+ORDER BY total_quantity DESC;
