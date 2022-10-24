@@ -1,0 +1,15 @@
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/migrations/00_create_datbase.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/migrations/01_create_customers.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/migrations/02_create_addresses.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/migrations/03_create_pizzas.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/migrations/04_create_sizes.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/migrations/05_create_prices.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/migrations/06_create_orders.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/migrations/07_create_order_details.sql
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/addresses.csv
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/customers.csv
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/prices.csv
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/pizzas.csv
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/sizes.csv
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/orders_details.csv
+C:/Users/cmunoz/intro_dev/sql-test-Mxye28/data/orders.csv
